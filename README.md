@@ -3,6 +3,6 @@
 Install Conky:
 
 ```
-sudo apt install -y conky
+sudo apt install -y conky-all
 
 ```
